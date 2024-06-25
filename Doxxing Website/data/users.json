@@ -1,0 +1,36 @@
+[
+    {
+        "searchName": "zisjuzthungryandsillyy",
+        "firstName": "John",
+        "secondName": "A.",
+        "familyName": "Doe",
+        "image": "images/zisjuzthungryandsillyy_full_face.jpg",
+        "moreImages": ["images/zisjuzthungryandsillyy_full_face.jpg", "images/zisjuzthungryandsillyy_full_face.jpg"],
+        "street": "123 Main St",
+        "languages": ["English", "Spanish"],
+        "motherLanguage": "English",
+        "age": 30,
+        "birthday": "1993-01-15",
+        "favoriteColor": "Blue",
+        "hobbies": ["Reading", "Hiking"],
+        "fears": ["Spiders"],
+        "familyMembers": ["Jane Doe", "Jim Doe"]
+    },
+    {
+        "searchName": "jane_smith",
+        "firstName": "Jane",
+        "secondName": "B.",
+        "familyName": "Smith",
+        "image": "images/jane_smith.jpg",
+        "moreImages": ["images/jane_smith_2.jpg", "images/jane_smith_3.jpg"],
+        "street": "456 Elm St",
+        "languages": ["English", "French"],
+        "motherLanguage": "French",
+        "age": 25,
+        "birthday": "1998-05-22",
+        "favoriteColor": "Green",
+        "hobbies": ["Cooking", "Dancing"],
+        "fears": ["Heights"],
+        "familyMembers": ["John Smith", "Jill Smith"]
+    }
+]
